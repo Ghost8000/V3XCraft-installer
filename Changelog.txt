@@ -1,0 +1,8 @@
+CHANGELOG v1.2.1-Beta
+
+- Added the updater, no need to downloading a different exe file everytime the V3X Craft gets an update, now you simply need to click on the
+ "Download/Update" button and wait for it to download the latest version of the modpack.
+- Added a button for those who have forge already installed so they can avoid reinstalling forge and simply install the mods instead.
+- Added Automatic temporary files removal.
+- Changed Application Background.
+- Added Credits Button.
